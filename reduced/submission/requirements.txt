@@ -1,0 +1,13 @@
+# Python 3.10 recommended.
+#   pip install -r requirements.txt
+#   python -m ipykernel install --user --name car
+numpy
+scipy
+pandas
+matplotlib
+numba
+openpyxl
+tqdm
+jupyterlab
+ipykernel
+jupytext
